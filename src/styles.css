@@ -14,7 +14,7 @@ a {
   color: green;
 }
 
-img {
+.img {
   max-width: 100%;
   display: flex;
   justify-content: center;
@@ -22,7 +22,7 @@ img {
 
 .links {
   display: flex;
-  ustify-content: space-around;
+  justify-content: space-around;
 }
 
 #mail{
