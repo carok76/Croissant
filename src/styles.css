@@ -9,3 +9,13 @@ h1 {
 p {
   text-align: center;
 }
+
+a {
+  display: flex;
+  ustify-content: center;
+  color: green;
+}
+
+img {
+  max-width: 100%;
+}
