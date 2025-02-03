@@ -9,14 +9,13 @@
       href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="src/styles.css" />
+    <link rel="stylesheet" href="/src/styles.css" />
     <title>Croissant</title>
     <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
   </head>
   <body>
     <h1>🥐 Contact us</h1>
-    <br />
-    <p>To contact croissant.com, please email us at <a href="mailto:hello@croissant.com">hello@croissant.com</a> for more info</p>
+    <p>To contact croissant.com, please email us at <a href="mailto:hello@croissant.com" id="mail">hello@croissant.com</a> for more info</p>
     <a href="/index.html">Homepage</a>
     <a href="/photo.html">Photo</a>
     <a href="/contact.html">Contact</a>
