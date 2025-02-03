@@ -16,13 +16,14 @@ a {
 
 .img {
   max-width: 100%;
-  display: flex;
-  justify-content: center;
+  display: block;
+  margin: 30px auto;
+  border-radius: 10px;
 }
 
 .links {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
 }
 
 #mail{
