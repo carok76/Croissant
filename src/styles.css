@@ -24,3 +24,7 @@ img {
   display: flex;
   ustify-content: space-around;
 }
+
+#mail{
+  color: blue;
+}
