@@ -11,11 +11,14 @@ p {
 }
 
 a {
-  display: flex;
-  ustify-content: center;
   color: green;
 }
 
 img {
   max-width: 100%;
+}
+
+.links {
+  display: flex;
+  ustify-content: space-around;
 }
